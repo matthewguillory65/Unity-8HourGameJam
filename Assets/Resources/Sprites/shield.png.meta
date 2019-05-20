@@ -1,21 +1,22 @@
 fileFormatVersion: 2
 guid: 2267fcd643f90e7489218d49b6a73996
-timeCreated: 1493782621
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: shield_0
     21300002: shield_1
     21300004: shield_2
     21300006: shield_3
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -24,34 +25,54 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 9
   spritePivot: {x: 0.6064195, y: 0.5583591}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -71,7 +92,14 @@ TextureImporter:
         - {x: -3, y: -4}
         - {x: 3, y: -4}
         - {x: 3, y: 4}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: shield_1
       rect:
@@ -88,7 +116,14 @@ TextureImporter:
         - {x: -3, y: -4}
         - {x: 3, y: -4}
         - {x: 3, y: 4}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: shield_2
       rect:
@@ -105,7 +140,14 @@ TextureImporter:
         - {x: -3, y: -4}
         - {x: 3, y: -4}
         - {x: 3, y: 4}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: shield_3
       rect:
@@ -136,7 +178,14 @@ TextureImporter:
         - {x: -114, y: -125}
         - {x: -21, y: -125}
         - {x: -21, y: -113}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: 38, y: -122}
       - {x: 40, y: -124}
@@ -205,7 +254,16 @@ TextureImporter:
       - {x: 125, y: 125}
       - {x: 128, y: 125}
       - {x: 128, y: 128}
+    physicsShape: []
+    bones: []
+    spriteID: 3a549f576dc8de34c802d53d5c6f80c8
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 97896533982478
   assetBundleName: 
   assetBundleVariant: 

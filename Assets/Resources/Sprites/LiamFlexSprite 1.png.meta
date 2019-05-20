@@ -1,20 +1,21 @@
 fileFormatVersion: 2
 guid: 587e8e644b14deb4c92e759e57c4e6cb
-timeCreated: 1493698730
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: LiamFlexSprite_0
     21300002: LiamFlexSprite 1_0
     21300004: LiamFlexSprite 1_1
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -23,34 +24,54 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: 1
     aniso: -1
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 9
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -139,7 +160,14 @@ TextureImporter:
         - {x: -18, y: -215.5}
         - {x: -21, y: -214.5}
         - {x: -23, y: -216.5}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9847d0b4d41bb34f9b375bfc821abdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: LiamFlexSprite 1_0
       rect:
@@ -181,7 +209,14 @@ TextureImporter:
         - {x: 62.7536, y: -132.013}
         - {x: 75.27606, y: -122.97455}
         - {x: 103.06427, y: -99.59735}
+      physicsShape: []
       tessellationDetail: 0.12
+      bones: []
+      spriteID: b5de031b0ea6ea3469f5bde62ea412af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: LiamFlexSprite 1_1
       rect:
@@ -211,9 +246,25 @@ TextureImporter:
         - {x: 35.713806, y: -30.482483}
         - {x: 55.355103, y: -17.19629}
         - {x: 71.29321, y: -3.4006958}
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: ca02952e997bb3b4982bd9fabca128c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 97891038175921
   assetBundleName: 
   assetBundleVariant: 

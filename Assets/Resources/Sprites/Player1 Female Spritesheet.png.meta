@@ -1,7 +1,5 @@
 fileFormatVersion: 2
 guid: fff926cb349c5b04781611a6f0919977
-timeCreated: 1493497209
-licenseType: Pro
 TextureImporter:
   fileIDToRecycleName:
     21300000: Player1 Legs 00
@@ -48,14 +46,17 @@ TextureImporter:
     21300082: Player1 Female Spritesheet_20
     21300084: Player1 Female Spritesheet_23
     21300086: Player1 Female Spritesheet_24
-  serializedVersion: 2
+  externalObjects: {}
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
+    sRGBTexture: 1
     linearTexture: 0
-    correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -64,34 +65,54 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
-  generateCubemap: 0
+  generateCubemap: 6
   cubemapConvolution: 0
-  cubemapConvolutionSteps: 7
-  cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
+    serializedVersion: 2
     filterMode: -1
     aniso: 16
-    mipBias: -1
-    wrapMode: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
-  rGBM: 0
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.53162056, y: 0.04899329}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
-  buildTargetSettings: []
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -107,7 +128,14 @@ TextureImporter:
       pivot: {x: 0.49436617, y: 0.5116279}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9caeb76b0338664996603e398fccae5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_1
       rect:
@@ -120,7 +148,14 @@ TextureImporter:
       pivot: {x: 0.5125786, y: 0.5060423}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 79e795cde86c733429476e826fce3f4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_2
       rect:
@@ -133,7 +168,14 @@ TextureImporter:
       pivot: {x: 0.49380803, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: bac8fa724441aed408ec39f390087037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_3
       rect:
@@ -146,7 +188,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 33b1514bf1d24c348ad23683c41430f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_4
       rect:
@@ -159,7 +208,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: c1eb4cea34f424b4cb9222a5e28089aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_5
       rect:
@@ -172,7 +228,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: f6089e5a8397d934a8be13c9112c5238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_6
       rect:
@@ -185,7 +248,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: f54357c1381bff54da536f63c21759ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_7
       rect:
@@ -198,7 +268,14 @@ TextureImporter:
       pivot: {x: 0.49352753, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: aebed37c7beaafc43a6ea40f661fa7a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_8
       rect:
@@ -211,7 +288,14 @@ TextureImporter:
       pivot: {x: 0.5130209, y: 0.4999998}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e62d2fd10d0d6834cb7a5bfc6c69d4c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_9
       rect:
@@ -224,7 +308,14 @@ TextureImporter:
       pivot: {x: 0.4935065, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: babe8cd1ffc9d3e42ac44048d753e87e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_10
       rect:
@@ -237,7 +328,14 @@ TextureImporter:
       pivot: {x: 0.45946252, y: 0.4070745}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 7515df8e148fc404daa960d52715304e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_11
       rect:
@@ -250,7 +348,14 @@ TextureImporter:
       pivot: {x: 0.49999997, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e9991364f651a7843b7050532760477e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_12
       rect:
@@ -263,7 +368,14 @@ TextureImporter:
       pivot: {x: 0.575, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: d37a9a71fc3581e4e9e450fbbaf3ae6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_13
       rect:
@@ -276,7 +388,14 @@ TextureImporter:
       pivot: {x: 0.575, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: e87fdadb06345b0478c1eadf220b7fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_14
       rect:
@@ -289,7 +408,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2ec208117815f3f42ace26647d5c0bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_15
       rect:
@@ -302,7 +428,14 @@ TextureImporter:
       pivot: {x: 0.58, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 7a864ab7f645e334cb0aebfad93a1f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_16
       rect:
@@ -315,7 +448,14 @@ TextureImporter:
       pivot: {x: 0.9656813, y: 0.4717932}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8f8e88c6911967e4cb342e428137657a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_17
       rect:
@@ -328,7 +468,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 8dd5639e2f1da474193fa1034b7f6153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_18
       rect:
@@ -341,7 +488,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.49999958}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 561c286e08e038f4f9adaa98ec38dcec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_19
       rect:
@@ -354,7 +508,14 @@ TextureImporter:
       pivot: {x: 0.49264705, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 34e426b70fd99b44484ca5f5eaa91b2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_20
       rect:
@@ -367,7 +528,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 81f749b7d8cfa124b9ab866ee432318f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_21
       rect:
@@ -380,7 +548,14 @@ TextureImporter:
       pivot: {x: 0.46078432, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 259474b0788acb947ae7ebe8878aeba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_22
       rect:
@@ -393,7 +568,14 @@ TextureImporter:
       pivot: {x: 0.49999997, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 7794ce26413c95f4cb7ba8cdfd26b3ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_23
       rect:
@@ -406,7 +588,14 @@ TextureImporter:
       pivot: {x: 0.49999997, y: 0.49275362}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: b2e92ba667d02734a8a6902293f227a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_24
       rect:
@@ -419,7 +608,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: b6b56b10c67112f449bf3e2c3d456cbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_25
       rect:
@@ -432,7 +628,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 2d3e363fa66e7104f8023b9b8168e992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_26
       rect:
@@ -445,7 +648,14 @@ TextureImporter:
       pivot: {x: 0.5081967, y: 0.49999997}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 31647764f61d41846aee8d9710cd0541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_27
       rect:
@@ -458,7 +668,14 @@ TextureImporter:
       pivot: {x: 0.4716981, y: 0.46363634}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 16385479e74c4454cb464a2770ef1bb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_28
       rect:
@@ -471,7 +688,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.46363634}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: eb283b49dfeb40c47b71f53bb10c7ee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Player1 Female Spritesheet_29
       rect:
@@ -484,7 +708,14 @@ TextureImporter:
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
+      physicsShape: []
       tessellationDetail: 0
+      bones: []
+      spriteID: 9f853587ba97f8e4398fb01e1e3a7dda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline:
     - - {x: -162, y: -744}
       - {x: -154, y: -720}
@@ -750,7 +981,16 @@ TextureImporter:
       - {x: 6, y: 643}
       - {x: 5, y: 646}
       - {x: 2, y: 646}
+    physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 97877825491117
   assetBundleName: 
   assetBundleVariant: 
